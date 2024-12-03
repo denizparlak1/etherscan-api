@@ -31,7 +31,7 @@ Ensure you have the following installed:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-repo/etherscan-api.git
+   git clone https://github.com/denizparlak1/etherscan-api.git
    cd etherscan-api
 
 2. Set Up .env File Create a .env file in the root directory with the following content:
